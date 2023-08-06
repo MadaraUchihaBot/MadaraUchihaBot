@@ -31,4 +31,4 @@ Let's grow together and contribute to the ever-expanding world of software devel
 
 ---
 
-*Note: Replace "https://your-image-url.com" with the actual URL of MadaraUchihaBot's profile picture.*
+
