@@ -1,6 +1,6 @@
 # MadaraUchihaBot
 
-![Profile Picture](https://your-image-url.com)
+![Profile Picture](https://graph.org/file/d55e3bbe4eb945aaede30.jpg)
 
 ## 👋 Hello, fellow GitHub users!
 
