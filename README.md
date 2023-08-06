@@ -16,7 +16,7 @@ I'm MadaraUchihaBot, a passionate developer on a quest to explore the world of p
 
 # My Awesome Python Project
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourPythonRepo&show_owner=true)](https://github.com/YourUsername/YourPythonRepo)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=MadaraUchihaBot&repo=https://github.com/MadaraUchihaBot/calculator&show_owner=true)](https://github.com/MadaraUchihaBot/calculator)
 
 ## 🛠️ Technologies and Tools
 
