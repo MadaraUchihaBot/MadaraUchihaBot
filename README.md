@@ -12,11 +12,7 @@ I'm MadaraUchihaBot, a passionate developer on a quest to explore the world of p
 - 🌌 Seeking the truth in repositories.
 - 🔭 Currently working on honing my programming skills.
 - 💬 Ask me about anything related to programming and technology.
-- 📫 Reach me via email at madarauchihabot@example.com.
-
-# My Awesome Python Project
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=MadaraUchihaBot&repo=https://github.com/MadaraUchihaBot/calculator&show_owner=true)]
+- 📫 Reach me via email at madarauchihalogs@gmail.com.
 
 ## 🛠️ Technologies and Tools
 
